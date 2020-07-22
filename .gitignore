@@ -1,0 +1,28 @@
+# ignore all logs
+*.log
+
+# ignore target folder
+~/target/**
+
+~/.gitignore
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+bin/
+
+dependency-reduced-pom.xml
